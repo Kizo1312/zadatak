@@ -1,10 +1,9 @@
-import ZadatakDefault from "./components/ZadatakDefault";
 import {
+  ZadatakDefault,
   ZadatakNamed1,
   ZadatakNamed2,
   ZadatakNamed3,
-} from "./components/ZadatakNamed";
-
+} from "./components";
 function App() {
   return (
     <>
